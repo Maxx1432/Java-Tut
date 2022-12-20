@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <!--   <servlet>
+    <servlet-name>abc</servlet-name>
+    <servlet-class>com.maxx.AddServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>abc</servlet-name>
+    <url-pattern>/add</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>pqr</servlet-name>
+    <servlet-class>com.maxx.SqServlet</servlet-class>
+  </servlet>
+  <servlet-mapping> 
+    <servlet-name>pqr</servlet-name>
+    <url-pattern>/sq</url-pattern>
+    
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>edf</servlet-name>
+    <servlet-class>com.m
+    axx.MyServlet</servlet-class>
+    <init-param>
+    <param-name>name</param-name>
+    <param-value>Maxxnew</param-value>
+    </init-param>
+  </servlet>
+  <context-param>
+    	<param-name>name</param-name>
+    	<param-value>Maxx</param-value>
+    </context-param>
+    
+    <context-param>
+    	<param-name>Phone</param-name>
+    	<param-value>Samsung</param-value>
+    </context-param> -->
+   
+<!--    <error-page>
+    	<error-code>500</error-code>
+    	<location>/Error.jsp</location>
+    </error-page>
+    
+    <error-page>
+    	<exception-type>java.lang.Throwable</exception-type>
+    	<location>/Error.jsp</location>
+    </error-page>
+    -->
+</web-app>

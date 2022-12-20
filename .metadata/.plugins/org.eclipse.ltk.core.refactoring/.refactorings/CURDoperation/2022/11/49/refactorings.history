@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CURDoperation/WebContent/use-list.jsp&apos; to &apos;User-list.jsp&apos;" description="Rename resource &apos;use-list.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/use-list.jsp" name="User-list.jsp" stamp="1669717027324" updateReferences="true"/>
+</session>

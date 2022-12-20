@@ -1,0 +1,28 @@
+package com.maxx.DemoHib;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Alien maxx = new Alien();
+        maxx.setSid(101);
+        maxx.setsName("Mahendra");
+        maxx.setClassNo("Class_A");
+         
+        Configuration con = new Configuration();
+        
+        SessionFactory sf = con.buildSessionFactory();
+         
+        Session session = sf.openSession();
+        session.save(maxx);
+        
+    }
+}

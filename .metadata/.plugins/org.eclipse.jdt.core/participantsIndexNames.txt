@@ -1,0 +1,11 @@
+INDEX VERSION 1.130
+C:\New_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\923981613.index
+\DemoApp\src
+C:\New_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1856966659.index
+\DemoJSP\src
+C:\New_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3744192462.index
+\CURDoperation\src
+C:\New_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2911470800.index
+\JSTLDemo\src
+C:\New_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3576269058.index
+\DemoApp1\src

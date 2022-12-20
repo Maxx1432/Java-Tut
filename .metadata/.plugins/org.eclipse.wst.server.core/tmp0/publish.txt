@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Nov 26 10:44:44 IST 2022
+org.eclipse.jst.jee.server\:DemoApp=C\:\\Users\\chawl\\Downloads\\apache-tomcat-9.0.69\\wtpwebapps\\DemoApp
+org.eclipse.jst.jee.server\:DemoApp1=C\:\\Users\\chawl\\Downloads\\apache-tomcat-9.0.69\\wtpwebapps\\DemoApp1
